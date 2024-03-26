@@ -23,7 +23,7 @@ for i in range(101,110):
     print output
 
 
-]0;root@NetworkAutomation-1: ~root@NetworkAutomation-1:~# cat netmiko1.py [1P[1@2
+
 from netmiko import ConnectHandler
 
 iosv_l2_s1 = {
